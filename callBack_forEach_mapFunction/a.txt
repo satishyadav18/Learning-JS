@@ -1,0 +1,9 @@
+callBack = a function that is passed as an argument 
+            to another function.
+            
+            use to handle asynchronous operations:
+            1.Reading a file
+            2.Network request
+            3.Interface with database
+
+            "Hey, when you're done, call this next."

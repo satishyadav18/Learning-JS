@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana;
+    text-align: center;
+}
+
+#myBtn{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: rgb(168, 80, 193);
+}
+
+.myLabel{
+    font-size: 3em;
+    display: block;
+    justify-content: center;
+}
+
+#myLabel1{
+    color: darkcyan;
+}
+
+#myLabel2{
+    color: rgb(45, 224, 25);
+}
+
+#myLabel3{
+    color: rgb(233, 60, 21);
+}

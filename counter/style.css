@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#counter{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgba(220, 225, 210, 0.426);
+}
+
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Georgia;
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.buttons{
+    margin: 5px;
+    padding: 10px 20px ;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(98, 184, 242);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color:rgb(35, 103, 153)
+}

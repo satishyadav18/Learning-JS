@@ -1,0 +1,30 @@
+// Switch case -> can be efficient replacement to many else if 
+// // String methods -> allow to manipulate and work with text (strings)
+//             .indexOf();
+//             .length;
+//             .trim();
+//             .toUpperCase();
+//             .toLowerCAse();
+//             .startsWith();
+//             .endsWith();
+//             .includes();
+//             .replaceAll(" ", " ");
+//             .padStart("length of str", "0/1");
+//             .padEnd();
+
+//String Slice -> Creating a substring from a portion of another string
+            // string.sclice(start, end); -1 negative start from the backside of string
+
+
+//Method chaining
+
+
+//Logical operator
+
+//assignment operator
+    ==
+    ===(strictly equality)
+    !=
+    !==(strictly inequality)
+
+while loop , do while loop , for loop 
